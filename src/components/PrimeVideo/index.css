@@ -1,0 +1,19 @@
+.prime-video-container {
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.logo {
+  height: 30vh;
+  width: 100vw;
+}
+.movie-container {
+  width: 92%;
+  padding: 20px;
+}
+
+.action-style {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}

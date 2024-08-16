@@ -1,0 +1,45 @@
+.thumb-img-style {
+  width: 210px;
+  height: 155px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.popup-content {
+  width: 800px;
+  height: 500px;
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.close-button {
+  align-self: flex-end;
+  background-color: transparent;
+  width: 26px;
+  height: 26px;
+  margin-top: 16px;
+  margin-right: 16px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.movie-player-container {
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-top: 14px;
+  margin-left: 50px;
+}
+
+.close-icon {
+  color: #231f20;
+  width: 20px;
+}
+
+
